@@ -1,0 +1,1 @@
+Prophet story data.
