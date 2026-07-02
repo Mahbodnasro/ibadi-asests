@@ -1,1 +1,686 @@
-TCQ intro context
+{
+ "1": {
+  "num": 1,
+  "name": "The Opening",
+  "trans": "(Al-Fātiḥah)",
+  "body": "This Meccan chapter, which is recited a total of seventeen times in the five daily prayers, serves as the cornerstone of the Quran. It sums up the relationship between the Creator and His creation, God’s undisputed authority in this world and the Hereafter, and humanity’s constant dependence on Him for guidance and assistance. The underlying theme is to acknowledge that He is the only god worthy of worship—a simple truth which the disbelievers fail to grasp. All fundamental principles encapsulated in this chapter are spelled out in the rest of the Quran."
+ },
+ "2": {
+  "num": 2,
+  "name": "The Cow",
+  "trans": "(Al-Baqarah)",
+  "body": "This Medinian chapter, which takes its name from the story of the cow in verses 67–73, details the main concepts of the previous chapter, with emphasis on the qualities of the believers, disbelievers, and hypocrites; God’s power to create and resurrect; the enmity of Satan towards Adam (‫)ﷺ‬ and his descendants; as well as God’s covenant with Moses (‫ )ﷺ‬and the Children of Israel. Several rulings are given in regards to marital relationships, bequest, jihad, fasting, pilgrimage, donations, debts, and interest. Unlike the next chapter, which focuses on the Christian perception of Jesus, this chapter dedicates a sizable portion to Jewish attitudes and practices."
+ },
+ "3": {
+  "num": 3,
+  "name": "Family of Imrân",
+  "trans": "(Āli-'Imrân)",
+  "body": "This Medinian chapter takes its name from the Family of ’Imrân mentioned in verse 33. Like the previous chapter, it reiterates the fact that God is the source of divine revelation and affirms the belief in God as the only Lord and Islam as His only accepted religion. The story of the birth of Mary, John the Baptist, and Jesus is mentioned, along with a challenge to the Christian perception of Jesus (‫)ﷺ‬. The chapter also touches on early battles against the Meccan pagans with emphasis on the lessons to be drawn from the Muslims’ defeat at the Battle of Uḥud, which took place in 3 A.H./625 C.E. The virtue of being mindful of God is highlighted at the end of this chapter and the beginning of the next one."
+ },
+ "4": {
+  "num": 4,
+  "name": "Women",
+  "trans": "(An-Nisâ')",
+  "body": "This chapter focuses on the rights of women (hence the chapter’s name), the law of inheritance, care for orphans, lawful and unlawful women to marry, and standing for justice (see the remarkable example of justice to a Jew in verses 105-112). As the chapter progresses, the focus shifts to the etiquette of striving in the cause of God and the relationship between Muslims and the People of the Book, culminating in a rebuttal to the claims about the crucifixion and divinity of Jesus (‫)ﷺ‬. Like the previous and the next chapters, this chapter also deals with the issue of hypocrisy—a common theme in many other Medinian chapters."
+ },
+ "5": {
+  "num": 5,
+  "name": "The Table Spread",
+  "trans": "(Al-Mâ'idah)",
+  "body": "This Medinian chapter takes its name from the story of the table mentioned in verses 112-115. Several rulings are laid out, including permissible and prohibited foods, hunting while on pilgrimage, and making a bequest while travelling. A reference is made to God’s covenants with the Jews and Christians and how those covenants were repeatedly violated. The believers are urged to comply with God’s judgment as communicated by the Prophet detailed here, including making up for a broken oath, the sanctity of the human life, and the humanity of Jesus (‫)ﷺ‬."
+ },
+ "6": {
+  "num": 6,
+  "name": "Cattle",
+  "trans": "(Al-An'âm)",
+  "body": "Like the previous chapter, this Meccan chapter masterfully demonstrates God’s power and knowledge, and thoroughly refutes pagan beliefs and unfounded practices, including animal offerings to the idols. Permissible and prohibited foods are explained in more detail than in the previous chapter. The nature of prophethood is defined, making it clear that messengers cannot do anything without the Will of God. This chapter begins by highlighting God’s authority, just like the ending of the previous chapter, and concludes by emphasizing accountability for one’s deeds, just like the beginning of the next chapter."
+ },
+ "7": {
+  "num": 7,
+  "name": "The Heights",
+  "trans": "(Al-A'râf)",
+  "body": "This chapter takes its name from the heights mentioned in verse 46. Like many other Meccan chapters, it recounts the stories of earlier prophets who were denied by their own people and how the deniers were eventually destroyed. As mentioned in the previous chapter (6:10-11), these stories are meant to reassure the Prophet (‫ )ﷺ‬and warn his people of God’s torment. The story of Satan’s arrogance and Adam’s temptation and fall are detailed, along with lessons for the believers to beware of Satan’s whispers. Details about Paradise and Hell (verses 36-53) here are unmatched by any previous chapter. The powerlessness of idols is further emphasized. Full obedience to God and His prophets is stressed in this chapter and the next."
+ },
+ "8": {
+  "num": 8,
+  "name": "Battle Gains",
+  "trans": "(Al-Anfâl)",
+  "body": "This chapter was revealed in Medina to explain how the spoils of war should be distributed following the believers’ victory over the Meccan pagans at Badr in 2 A.H./624 C.E. The chapter urges the believers to be true to God and His Messenger, reminding them of how they were outnumbered but God sent down angels for their aid. It is made clear that although victory comes only from God, the believers should always be ready to defend themselves and be open for peace. The pagans are warned that their plots to hinder others from God’s Way and oppose the truth will only end in failure—a theme emphasized in both the previous and the following chapters."
+ },
+ "9": {
+  "num": 9,
+  "name": "Repentance",
+  "trans": "(At-Tawbah)",
+  "body": "This chapter, which is perceived as a continuation of the previous chapter, begins by openly terminating the peace treaties constantly violated by the pagans. The believers are urged to march forth with the Prophet (‫ )ﷺ‬for the Battle of Tabûk in the summer of 9 A.H./631 C.E. Hypocrites are exposed and their false excuses are refuted. Muslims are reminded of how God turned the believers’ initial defeat into sweeping victory at the Battle of Ḥunain and how God saved His Messenger (‫ )ﷺ‬from the pagans during his migration to Medina. God’s acceptance of repentance is echoed throughout the chapter, hence its title."
+ },
+ "10": {
+  "num": 10,
+  "name": "Jonah",
+  "trans": "(Yûnus)",
+  "body": "Similar to the previous chapter, this Meccan chapter emphasizes God’s acceptance of repentance, most notably in the case of the people of Jonah chapter and the next. The short span of this worldly life and people’s ingratitude to their Creator are elaborated upon. The Prophet (‫ )ﷺ‬is urged to exercise patience in the face of denial. The stories of Noah’s people and Pharaoh’s people are cited as cautionary tales to the Meccan deniers, setting the stage for more elaborate warnings in the next chapter."
+ },
+ "11": {
+  "num": 11,
+  "name": "Hûd",
+  "trans": "(Hûd)",
+  "body": "This Meccan chapter is named after Prophet Hûd (‫)ﷺ‬, whose story is mentioned in verses 50-60. More details are given about Noah (‫ )ﷺ‬in this chapter than the previous chapter and Chapter 7. Just like the previous chapter, the stories of destroyed disbelievers are meant to deter the Arab pagans and reassure the Prophet (‫ )ﷺ‬of his ultimate triumph, and a reference is made to the reward of the believers and the punishment of the disbelievers in the Hereafter."
+ },
+ "12": {
+  "num": 12,
+  "name": "Joseph",
+  "trans": "(Yûsuf)",
+  "body": "Rightfully called ‘the best of stories,’ this uplifting Meccan chapter was revealed along with the two previous chapters at a critical time in the life of the Prophet (‫ )ﷺ‬following the death of his wife Khadîjah and his uncle Abu Ṭâlib, his two main supporters, shortly after a 3-year boycott by the Meccan pagans to suppress the believers. This is the story of Joseph (‫ )ﷺ‬whose half- brothers were driven by jealousy, conspiring to distance him from his father Jacob (‫)ﷺ‬. Joseph was sold into slavery in Egypt, falsely accused, and imprisoned for several years, only to become Egypt’s Chief Minister. Just like Joseph (‫)ﷺ‬, the Prophet (‫ )ﷺ‬had to live away from his hometown, was faced with false allegations and abused by his own people, but ultimately became Arabia’s undisputed leader. When the Prophet (‫ )ﷺ‬triumphed over Mecca after many years of persecution, he treated the very people who abused him with grace, recalling the words of Joseph when his brothers begged for mercy in verse 92, “There is no blame on you today. May God forgive you! He is the Most Merciful of the merciful!”"
+ },
+ "13": {
+  "num": 13,
+  "name": "Thunder",
+  "trans": "(Ar-Ra'd)",
+  "body": "This chapter, which takes its name from the thunder in verse 13, elaborates upon the last verses of the previous chapter (starting with 105) relating to God’s magnificent signs in the heavens and earth which are met with neglect by the deniers; God’s knowledge, might, and unwavering support for His prophets; the authenticity of the Quran; and warnings to the disbelievers. The chapter touches on the qualities of the believers and the disbelievers and the reward for each. All these themes are reiterated in the next two chapters."
+ },
+ "14": {
+  "num": 14,
+  "name": "Abraham",
+  "trans": "(Ibrâhîm)",
+  "body": "This Meccan chapter is named after Prophet Abraham (‫ )ﷺ‬who, upon settling his wife Hagar and his son Ishmael in what later became the city of Mecca, invokes God to protect his descendants from idol-worship, a practice that Meccans were entrenched in at the time of this revelation (verses 35-41). The chapter also refers to some of God’s favours, which are met with ingratitude and denial. A sizable portion reveals how the disbelievers will be let down by Satan and tormented in Hell, wishing they had believed, according to the next chapter (15:2)."
+ },
+ "15": {
+  "num": 15,
+  "name": "The Rocky Highlands",
+  "trans": "(Al-Ḥijr)",
+  "body": "This Meccan chapter takes its name from the place mentioned in 80-84, where the people of Ṣâliḥ once lived. Other destroyed peoples are mentioned as a warning to the Arab deniers, who are also warned at the beginning of the next chapter. Satan’s arrogance towards God and enmity towards humanity are emphasized. The Prophet (‫ )ﷺ‬is urged to exercise patience and seek comfort in worship."
+ },
+ "16": {
+  "num": 16,
+  "name": "Bees",
+  "trans": "(An-Naḥl)",
+  "body": "This Meccan chapter, also known as the Chapter of Blessings (Sûratu An- Ni’am), takes its name from the bees mentioned in verses 68-69, which are described as one of God’s numerous favours to humanity. Instead of showing gratitude to God for all these blessings, the pagans wilfully set up idols, associating them with God in worship. They are also condemned for burying their daughters alive (verses 58-59). References are made to grateful believers and ungrateful disbelievers along with the ultimate reward for each group. Abraham (‫ )ﷺ‬is cited close to the end of the chapter as a grateful servant of God, whose example should be emulated by all believers. The chapter concludes by instructing the Prophet (‫ )ﷺ‬to endure patiently and invite all to the Way of God with wisdom and grace."
+ },
+ "17": {
+  "num": 17,
+  "name": "The Night Journey",
+  "trans": "(Al-Isrâ')",
+  "body": "Since Abraham (‫ )ﷺ‬is praised in the last verses of the previous chapter as a role model for the world, this Meccan chapter speaks of how the Prophet Jerusalem then to the heavens and back to Mecca—all in one night (verses 1 and 60). He (‫ )ﷺ‬will also be honoured on the Day of Judgment through the station of praise where he will make intercession (verse 79). The children of Israel are referred to passingly at the end of the previous chapter, but more insights are given about them both at the beginning and the end of this chapter. The key to success in this life and salvation in the next is encapsulated in a set of divine commandments (verses 22-39), along with a warning against Satan and his whispers (verses 61-65). The chapter is critical of the pagan arguments against resurrection and their ridiculous demands (verses 89-93). Criticism of attributing partners and children to God is carried over to the next chapter."
+ },
+ "18": {
+  "num": 18,
+  "name": "The Cave",
+  "trans": "(Al-Kahf)",
+  "body": "This Meccan chapter takes its name from the story of the people of the cave in verses 9-26. According to Ibn ’Abbâs, the Prophet (‫ )ﷺ‬was asked about the youths who hid in a cave, a king who dominated large parts of the world, and about the spirit, so 18:9-26, 18:83-99, and 17:85 were revealed. The Prophet (‫ )ﷺ‬says in an authentic narration collected by At-Tirmiⱬi, “No one’s feet will move on Judgment Day until they are asked about four things: 1) What they did in their youth. 2) How they earned and spent their wealth. 3) What they did with their knowledge. 4) And how they spent their lives.” Interestingly, these four questions correspond to the four stories mentioned in this chapter: 1) The story of the youths and the cave. 2) The story of the wealthy man with two gardens. 3) The story of Moses and the man of knowledge. 4) And finally the story of Ⱬul-Qarnain and his life and travels in the service of God. The four stories are interjected by warnings to the disbelievers and good news to the believers. Like the story of the people of the cave, some miraculous stories appear in the next chapter."
+ },
+ "19": {
+  "num": 19,
+  "name": "Mary",
+  "trans": "(Maryam)",
+  "body": "This Meccan chapter recounts the miraculous stories of the birth of Jesus by the virgin Mary (after whom the chapter is named) and the birth of John the Baptist to old Zachariah and his elderly, barren wife. Other prophets are cited as recipients of God’s favour and grace. Attributing children to God outrageous and blasphemous. Both the end of this chapter and the beginning of the next one talk about the purpose of revealing the Quran."
+ },
+ "20": {
+  "num": 20,
+  "name": "Ṭâ-Hâ",
+  "trans": "(Ṭâ-Hâ)",
+  "body": "Since Moses (‫ )ﷺ‬and Adam (‫ )ﷺ‬are mentioned passingly in the previous chapter, their stories are recounted here in great detail. This Meccan chapter reassures the Prophet (‫ )ﷺ‬that the truth always prevails even against the most tyrannical opposition (in the form of Pharaoh) and that God is able to open even the hardest of hearts (in the form of Pharaoh’s magicians). Both the beginning and the end of the chapter emphasize the divine nature of the Quran as a source of guidance and eternal bliss. Those who turn away from the Quranic reminder are warned of misery in this world and horrifying punishment on the Day of Judgment. The Prophet (‫ )ﷺ‬is advised to seek comfort in patience and prayer against pagan denial, which is detailed at the beginning of the next chapter."
+ },
+ "21": {
+  "num": 21,
+  "name": "The Prophets",
+  "trans": "(Al-Anbiyâ')",
+  "body": "Like the previous chapter, this is another Meccan chapter that aims at reassuring the Prophet (‫ )ﷺ‬by reminding him of God’s grace and support to His prophets, including Abraham, Job, Jonah, Zachariah, and Jesus. The Prophet (‫ )ﷺ‬is said to be sent as a mercy to the whole world (verse 107). Warnings of the horrors of Judgment Day are dispersed throughout the chapter and are carried over to the next chapter."
+ },
+ "22": {
+  "num": 22,
+  "name": "The Pilgrimage",
+  "trans": "(Al-Ḥajj)",
+  "body": "This Medinian chapter takes its name from the passage that talks about pilgrimage rituals (verses 25-37), along with condemnations to the pagans for hindering the believers from reaching the Sacred House in Mecca. After fifteen years of persecution, here the believers receive the permission to fight back in self-defence (verse 39). Idolatry is condemned and the idols are rejected as pathetic, incapable of even creating a fly. In conclusion, the believers are told that they can achieve success through prayer and good deeds—a theme which extends to the beginning of the next chapter."
+ },
+ "23": {
+  "num": 23,
+  "name": "The Believers",
+  "trans": "(Al-Mu'minûn)",
+  "body": "This Meccan chapter emphasizes that the believers are guaranteed success previous chapter, it makes the case for God’s oneness as well as His power to create and resurrect. The last part is dedicated to the judgment of the believers and the disbelievers, focusing on the fate of the wicked who abuse the believers. This theme extends to the next chapter."
+ },
+ "24": {
+  "num": 24,
+  "name": "The Light",
+  "trans": "(An-Nûr)",
+  "body": "This Medinian chapter takes its name from the divine light mentioned in verses 35-36. A large portion of this chapter deals with the issue of sexual misconduct hinted at in the previous chapter (23:7). The chapter also offers some guidelines to the believers on how they should have reacted to false rumours against ’Ȃishah, the Prophet’s wife. Other issues are discussed, including modesty, entering people’s homes, forced prostitution, hypocrisy, and false accusations of adultery. God’s power, compliance with His judgment, and obedience to the Prophet (‫ )ﷺ‬are highly emphasized."
+ },
+ "25": {
+  "num": 25,
+  "name": "The Decisive Authority",
+  "trans": "(Al-Furqân)",
+  "body": "This Meccan chapter takes its name from verses 1-6, which refute the pagan claims that the Quran was fabricated and plagiarized from earlier scriptures. Other passages condemn polytheism, denial of resurrection, and mocking the Prophet (‫)ﷺ‬. God’s power, manifested in the marvels of creation and rain, is emphasized in this chapter and the previous one. The qualities of the righteous servants of God are beautifully laid out in verses 63-76."
+ },
+ "26": {
+  "num": 26,
+  "name": "The Poets",
+  "trans": "(Ash-Shu'arâ')",
+  "body": "This Meccan chapter takes its name from the reference to poets in verses 224-226. Since the previous chapter ends with a warning to the deniers of the truth, this chapter recounts several cautionary tales of destroyed deniers such as Pharaoh and the peoples of Noah, Shu’aib, Lot, and Ṣâliḥ. The divine origin of the Quran is emphasized at both ends of the chapter. The qualities of the believers mentioned in the last verse (227) are elaborated upon at the beginning of the next chapter."
+ },
+ "27": {
+  "num": 27,
+  "name": "The Ants",
+  "trans": "(An-Naml)",
+  "body": "This Meccan chapter narrates the encounters of Solomon (‫ )ﷺ‬with ants not appear in any other chapter. God’s power to create and provide is contrasted with the powerlessness of the idols. Some deterring examples are given to the pagans, along with a warning of the horrors of the apocalypse. The Prophet (‫ )ﷺ‬is reassured of the truth of the Quran and told that his duty is only to deliver the message. Judgment rests with God alone."
+ },
+ "28": {
+  "num": 28,
+  "name": "The Narratives",
+  "trans": "(Al-Qaṣaṣ)",
+  "body": "In 26:18-19, Pharaoh reminds Moses (‫ )ﷺ‬of his up-bringing in the care of Pharaoh and how Moses (‫ )ﷺ‬killed an Egyptian (accidentally). Unlike the previous chapter, this Meccan chapter focuses on these two aspects of Moses’ life in Egypt, along with his escape to Midian where he met his future wife. Another aspect is the story of Korah, one of the people of Moses, who behaved arrogantly, leading to his own destruction. Just like the previous chapter, it reaffirms God’s power and the authenticity of the Quran. Again, the Prophet (‫ )ﷺ‬is reminded that his duty is not to convert, but to convey. After criticizing the polytheists (verses 45-75), the chapter concludes by bidding the Prophet (‫ )ﷺ‬to be steadfast. The next chapter starts off by talking about steadfastness."
+ },
+ "29": {
+  "num": 29,
+  "name": "The Spider",
+  "trans": "(Al-'Ankabût)",
+  "body": "This Meccan chapter takes its name from the parable of the spider in verse tribulations in revealing those who are truly steadfast and those who are not. Noah, Abraham, Lot, and Shu’aib are noted for their perseverance. References are made to various peoples and the different ways they were destroyed for their denial of the truth (verse 40). The pagan arguments against the Prophet and the Quran are thoroughly refuted. The chapter concludes by commending those who put their trust in God and strive in His cause. This conclusion paves the way for the opening of the next chapter."
+ },
+ "30": {
+  "num": 30,
+  "name": "The Romans",
+  "trans": "(Ar-Rûm)",
+  "body": "This Meccan chapter takes its name from the reference to the Romans in verse 2. The world’s superpowers in the early 7th century were the Roman Byzantine and Persian Empires. When they went to war in 614 C.E., the Romans suffered a devastating defeat. The Meccan pagans rejoiced at the defeat of the Roman Christians at the hands of the Persian pagans. Soon verses 30:1-5 were revealed, stating that the Romans would be victorious in three to nine years. Eight years later, the Romans won a decisive battle against the Persians, reportedly on the same day the Muslims vanquished the Meccan army at the Battle of Badr. As the chapter progresses, several blessings and natural signs are cited to prove God’s infinite mercy and power, coupled with condemnations to the pagans for their ingratitude and for associating powerless idols with God in worship. The chapter closes by bidding the Prophet (‫ )ﷺ‬not to be disheartened by what the deniers say."
+ },
+ "31": {
+  "num": 31,
+  "name": "Luqmân",
+  "trans": "(Luqmân)",
+  "body": "This Meccan chapter is named after Luqmân, a wise African man who is quoted giving pieces of advice to his son (verses 12–19) on one’s relationship with God and the people. While the believers are praised, the pagans are condemned for their ingratitude, distracting others from the Way of God, and for setting up idols as His equals. Similar to the previous chapter, references are made to God’s natural marvels, challenging the deniers to point out anything their gods have created. The chapter concludes by warning humanity of the Day of Judgment, ushering in the next chapter."
+ },
+ "32": {
+  "num": 32,
+  "name": "The Prostration",
+  "trans": "(As-Sajdah)",
+  "body": "This Meccan chapter, which takes its name from the prostrations of the believers in worship mentioned in verse 15, makes it clear that the Quran is a divine revelation and that Almighty God is the sole Creator, most capable of resurrection. Similar to the previous chapter, a reference is made to the qualities of the believers and the disbelievers and the reward awaiting each. Both the end of this chapter and the beginning of the next urge the Prophet"
+ },
+ "33": {
+  "num": 33,
+  "name": "The Allied Forces",
+  "trans": "(Al-Aḥzâb)",
+  "body": "This Medinian chapter takes its name from the enemy alliance (mentioned in verses 9–27) which laid a siege around Medina during the Battle of the Trench in 5 A.H./627 C.E. While the believers are reminded of God’s aid against the enemy alliance, the hypocrites are condemned repeatedly. The chapter provides social guidelines regarding adoption, divorce, modesty, and the etiquette of dealing with the Prophet (‫ )ﷺ‬and his wives. In view of God’s favours to the believers (including His forgiveness and generous reward at the end of the chapter), the next chapter starts off with praises to God."
+ },
+ "34": {
+  "num": 34,
+  "name": "Sheba",
+  "trans": "(Saba')",
+  "body": "This Meccan chapter takes its name from the reference to the people of Sheba ingratitude. Both David (‫ )ﷺ‬and Solomon (‫ )ﷺ‬are cited as grateful servants of God. The Meccan pagans are reminded that only faith can bring them closer to God, not their wealth. They are criticized for calling the Prophet last part of this chapter (verses 40-41) and the beginning of the next (verse 1) reaffirm the angels as God’s faithful servants."
+ },
+ "35": {
+  "num": 35,
+  "name": "The Originator",
+  "trans": "(Fâṭir)",
+  "body": "This Meccan chapter demonstrates God’s infinite power through the marvels of His creation, in contrast with the powerlessness of the pagan idols. The Prophet (‫ )ﷺ‬is consoled by the fact that many prophets were denied before him. The believers are promised of a great reward in Paradise (verses 31- 35), while the disbelievers are warned of a scathing punishment in Hell"
+ },
+ "36": {
+  "num": 36,
+  "name": "Yâ-Sîn",
+  "trans": "(Yâ-Sîn)",
+  "body": "This Meccan chapter emphasizes the divine nature and purpose of the Quran. The Arab pagans are reminded of the fate of earlier disbelievers and condemned for following Satan, denying the Resurrection, discrediting the Quran, and rejecting the Prophet (‫ )ﷺ‬as ‘a poet.’ Similar to the next chapter, some examples of God’s wonders of creation are cited to prove His ability to bring the dead back to life."
+ },
+ "37": {
+  "num": 37,
+  "name": "Those Lined Up",
+  "trans": "(Aṣ-Ṣâffât)",
+  "body": "For the most part, this Meccan chapter explains verse 31 from the previous chapter: “Have the deniers not considered how many peoples We destroyed before them …?”. Hence, several examples of destroyed disbelievers are cited here, including the peoples of Noah, Lot, and Elias. Some basic truths are emphasized, including the oneness of God, the Resurrection, and the prophethood of Muḥammad (‫)ﷺ‬. The pagans are criticized for calling the Prophet (‫‘ )ﷺ‬a mad poet’ and for claiming that the angels are God’s daughters. This chapter provides more details on the punishment of the disbelievers and the reward of the believers in the Hereafter (verses 19-68). In conclusion, the Prophet (‫ )ﷺ‬is reassured that God’s messengers always prevail."
+ },
+ "38": {
+  "num": 38,
+  "name": "Ṣâd",
+  "trans": "(Ṣâd)",
+  "body": "This chapter is perceived as a continuation of the previous chapter since it mentions some prophets that are not mentioned there—such as David, Solomon, and Job. Again, the pagans are condemned for denying the oneness of God, rejecting the Prophet (‫ )ﷺ‬as ‘a magician, a total liar,’ and for claiming that the world was created without purpose. Reference is made to the creation of Adam (‫ )ﷺ‬and the enmity Satan has for him and his descendants (verses 71-85), and the punishment awaiting the misleaders and their followers (verses 55-64), contrasted with the bliss in store for the righteous (verses 49-54). The end of this chapter emphasizes the universality of the Quran whereas the beginning of the next speaks of its divine nature."
+ },
+ "39": {
+  "num": 39,
+  "name": "The Successive Groups",
+  "trans": "(Az-Zumar)",
+  "body": "This Meccan chapter builds on the story of the creation of Adam in the previous chapter by referring to the creation of Adam’s spouse, and how their descendants were created in the womb, developing in successive stages. Some of those descendants choose to be faithful and grateful to their Creator, while others choose not to. Eventually, following a fair judgment, the former will be led to their places in Paradise and the latter to their places in Hell— each in successive groups (hence the chapter’s name). God’s willingness to forgive sins is highly emphasized in the last part of this chapter and the beginning of the next."
+ },
+ "40": {
+  "num": 40,
+  "name": "The Forgiver",
+  "trans": "(Ghâfir)",
+  "body": "In essence, this Meccan chapter emphasizes the main concepts highlighted both in the previous and following chapters—namely God being infinite in mercy and severe in punishment, and humanity being either grateful or ungrateful to their Lord along with the reward that ensues. All this is embodied in the story of Moses (verses 23-54)—with Pharaoh as the ungrateful disbeliever and an unidentified man from Pharaoh’s people as the grateful believer. The Prophet (‫ )ﷺ‬is repeatedly advised to be patient, keeping in mind that God never lets His prophets down (verses 51 and 77)."
+ },
+ "41": {
+  "num": 41,
+  "name": "Distinctly Spelled Out",
+  "trans": "(Fuṣṣilat)",
+  "body": "This Meccan chapter, which takes its name from the description of the Quran in verse 3, rebukes the pagans for turning away from the truth; abusing the Quran; and for denying God, the sole Creator of the heavens and the earth. The deniers are warned that their own bodily organs will testify against them on Judgment Day, landing them in Hell forever. Reference to the destruction of the arrogant, ungrateful peoples of ’Ȃd and Thamûd is made because the pagan Arabs used to pass by their ruins on their journeys to Syria and Yemen, respectively. A profound description of the righteous is given in verses 30-36. The truth of the Quran is emphasized at the end of this chapter and the beginning of the next."
+ },
+ "42": {
+  "num": 42,
+  "name": "Consultation",
+  "trans": "(Ash-Shûrâ)",
+  "body": "This Meccan chapter takes its name from verse 38 which talks about conducting affairs by mutual consultation as one of the qualities of the true believers. The chapter emphasizes that God has decreed for Muslims the same religion ordained for all the previous prophets. The believers are commanded to resort to God’s judgment if disagreement arises. God’s oneness, power, and wisdom are emphasized as the pagans’ faith in powerless idols is condemned. Both the end of this chapter and the beginning of the next stress the fact that the Quran has been revealed by God."
+ },
+ "43": {
+  "num": 43,
+  "name": "Ornaments",
+  "trans": "(Az-Zukhruf)",
+  "body": "This Meccan chapter takes its name from the ornaments mentioned in verse the angels as God’s daughters, claiming that Muḥammad (‫ )ﷺ‬is not worthy to receive revelations because he is not rich, and for associating idols with God in worship, although they admit that He is the sole Creator of the heavens and the earth. Similar to the next chapter, the pagans are warned of a horrifying punishment in Hell and the believers are promised a great reward in Paradise."
+ },
+ "44": {
+  "num": 44,
+  "name": "The Haze",
+  "trans": "(Ad-Dukhân)",
+  "body": "This Meccan chapter takes its name from the haze (caused by drought), which is mentioned in verse 10. Similar to the previous chapter, the Meccan pagans are equated with Pharaoh’s people for going back on their promise of full submission to God once the plague is removed from them. The Quran is said to have been revealed on a blessed night for the guidance of humanity. Those who embrace its guidance will be honoured in Paradise and those who reject it will be debased in Hell. This fate is the underlying theme in the next chapter."
+ },
+ "45": {
+  "num": 45,
+  "name": "Kneeling",
+  "trans": "(Al-Jâthiyah)",
+  "body": "This Meccan chapter, which takes its name from the kneeling of every faith- community on Judgment Day mentioned in verse 28, is critical of those who turn away from God’s revelations, deny the Resurrection, ridicule the truth, and fail to appreciate God’s countless favours and marvels of creation. The dreadful judgment of these deniers is featured in the last part of the chapter. All these themes are emphasized in the next chapter as well."
+ },
+ "46": {
+  "num": 46,
+  "name": "The Dunes",
+  "trans": "(Al-Aḥqâf)",
+  "body": "This Meccan chapter takes its name from the sand-hills mentioned in verse 21 in the story of the people of Hûd (‫ )ﷺ‬who were destroyed for their disbelief, even though they were far superior to the Arab pagans (verses 21- 28). Again, God’s infinite power is contrasted with the powerlessness of the idols. The pagan arguments against the Quran and the Resurrection are refuted, and reference is made to a group of jinn who readily embraced the truth once they heard the Prophet’s recitation of the Quran. The Prophet challenge the truth at the end of this chapter and the beginning of the next."
+ },
+ "47": {
+  "num": 47,
+  "name": "Muḥammad",
+  "trans": "(Muḥammad)",
+  "body": "This Medinian chapter, which takes its title from the Prophet’s name in verse 2, discusses the etiquette of fighting in the battlefield. The faithful believers are promised different types of rivers and delicacies in Paradise, whereas the disbelievers and the hypocrites are warned of an evil fate. To preserve the reward of their good deeds, the believers are urged to strive in the Way of God and donate in His cause, culminating in the clear triumph in the next chapter."
+ },
+ "48": {
+  "num": 48,
+  "name": "The Triumph",
+  "trans": "(Al-Fatḥ)",
+  "body": "This Medinian chapter takes its name from the clear triumph (i.e., Treaty of Ḥudaibiyah) in verse 1. The Prophet (‫ )ﷺ‬and 1400 of his companions travelled to Mecca to perform the minor pilgrimage (’umrah) in 6 A.H./628 C.E. He (‫ )ﷺ‬sent ’Uthmân ibn ’Affân to let the Meccans know that the Muslims had come in peace, only to visit the Sacred House. When the Meccans delayed ’Uthmân, the Prophet (‫ )ﷺ‬thought they might have killed his envoy. So he (‫ )ﷺ‬called upon the faithful to pledge allegiance to him under a tree at Ḥudaibiyah in the outskirts of Mecca. Shortly after, ’Uthmân returned safely and a peace agreement was signed by the Muslims and Meccan pagans, stating in part that the Muslims would have to return to Medina and come back next year for ’umrah. The Treaty of Ḥudaibiyah is described as a clear triumph since it established peace, temporarily diffused the tension between the Muslims and the Meccan pagans, and gave the Muslims plenty of time to spread awareness and understanding of their faith. Thousands from different tribes accepted Islam during that truce. The chapter commends the believers for proving true to God and His Messenger, criticizes the hypocrites for not marching forth with the Prophet (‫)ﷺ‬, and condemns the pagans for denying the believers access to the Sacred House. The description of the true believers both in the Torah and the Gospel is given at the end of the chapter, followed by instructions on proper conduct with the Prophet (‫ )ﷺ‬and other believers in the next chapter."
+ },
+ "49": {
+  "num": 49,
+  "name": "The Rooms",
+  "trans": "(Al-Ḥujurât)",
+  "body": "This Medinian chapter, which takes its name from the reference to the Prophet’s private quarters in verse 4, instructs the believers on the proper conduct towards the Prophet (verses 1-5) and the social etiquette of dealing with other believers (verses 6-12) and the rest of humanity (verse 13). At the end of the chapter, the nomadic Arabs are taught that true faith is proven by action not only words."
+ },
+ "50": {
+  "num": 50,
+  "name": "Qâf",
+  "trans": "(Qâf)",
+  "body": "Since the previous chapter primarily addresses the believers, this chapter mainly talks about the disbelievers—particularly the deniers of resurrection. References are made to earlier destroyed deniers and God’s infinite power to prove His ability to create and resurrect. The deniers of resurrection are told what to expect after death and judgment. The Prophet (‫ )ﷺ‬is urged to be steadfast. The certainty of the Hereafter is emphasized both at the end of this chapter and the beginning of the next."
+ },
+ "51": {
+  "num": 51,
+  "name": "Scattering Winds",
+  "trans": "(Adh-Dhâriyât)",
+  "body": "Like the previous chapter, this Meccan chapter makes the case for the Resurrection, citing some of God’s natural signs in the universe to prove His ability to bring the dead back life. Several examples are given of the deniers of judgment who were destroyed, which contrast with the reward of the believers. The Prophet (‫ )ﷺ‬is urged to carry on reminding. Both the end of this chapter and the beginning of the next pose a warning of the Day of Judgment."
+ },
+ "52": {
+  "num": 52,
+  "name": "The Mountain",
+  "trans": "(Aṭ-Ṭûr)",
+  "body": "This Meccan chapter takes its name from verse 1, where God swears by Mount Ṭûr, among other things, that the Day of Judgment is inevitable. The punishment of those skeptical of judgment is described, followed by a detailed description of the reward of the believers along with their offspring reassured of God’s support, while the pagan beliefs and arguments are refuted both in this chapter and the next."
+ },
+ "53": {
+  "num": 53,
+  "name": "The Star",
+  "trans": "(An-Najm)",
+  "body": "This Meccan chapter takes its name from the reference to the fading of the stars in the first verse (as well as the last verse of the previous chapter). The divine source of the Prophet’s message is emphasized, followed by reference to his ascension to heaven during the Night Journey (see the introduction to Chapter 17). The pagans are condemned for associating idols with God in worship and for claiming that the angels are God’s daughters. Manifestations of God’s infinite power are cited to prove His ability to resurrect. Both the end of this chapter and the beginning of the next stress the imminence of the Hour."
+ },
+ "54": {
+  "num": 54,
+  "name": "The Moon",
+  "trans": "(Al-Qamar)",
+  "body": "This Meccan chapter, which takes its name from the splitting of the moon mentioned in verse 1, criticizes the disbelievers for rejecting warnings of the fast-approaching Hour. The pagans are warned of a dreadful fate similar to that of earlier disbelievers, who were mentioned passingly in the previous chapter (53:50-54). The chapter concludes by announcing that the righteous will be honoured in the presence of the Almighty, which is the highlight of the next chapter."
+ },
+ "55": {
+  "num": 55,
+  "name": "The Most Compassionate",
+  "trans": "(Ar-Raḥmân)",
+  "body": "This Meccan chapter is a call to humans and jinn to acknowledge God’s infinite blessings, hence the recurring question: “Then which of your Lord’s favours will you both deny?” which is repeated thirty-one times. Life on earth will come to an end, ushering in the Day of Judgment, where people will be classified into three groups based on their deeds and consequent rewards: the disbelievers (verses 31-45), the best of the believers (verses 46-61), and the average believers (verses 62-78)."
+ },
+ "56": {
+  "num": 56,
+  "name": "The Inevitable Event",
+  "trans": "(Al-Wâqi'ah)",
+  "body": "This Meccan chapter is identical to the previous one in classifying people into three groups on Judgment Day and discussing how God’s blessings are taken for granted. These blessings should be seen as a proof of His ability to raise the dead for judgment. Moreover, references are made to the creation of the human race, the divine nature of the Quran, and the horrors of the apocalypse. God is glorified in the last verse of this chapter and the first verse of the next chapter."
+ },
+ "57": {
+  "num": 57,
+  "name": "Iron",
+  "trans": "(Al-Ḥadîd)",
+  "body": "This Medinian chapter, which takes its name from the reference to iron in verse 25, is an invitation to strive in God’s cause and spend in His Way. Similar to the next chapter, a strong emphasis is placed on God’s knowledge and power. It is made clear that God is able to revive faith in the hearts of the believers just as He can revive the earth after its death. The believers are advised regarding destiny and the life of this world, while the hypocrites are warned of the evil fate awaiting them. Some prophets are mentioned passingly before making a final invitation to the People of the Book to believe in God and His Prophet (‫)ﷺ‬."
+ },
+ "58": {
+  "num": 58,
+  "name": "The Pleading Woman",
+  "trans": "(Al-Mujâdilah)",
+  "body": "A companion named Khawlah bint Tha’labah had a disagreement with her husband, Aws ibn Aṣ-Ṣâmit, who then told her that she was as unlawful for him as the ẓahr (back) of his mother. This statement had been considered to be a form of divorce (known as ẓihâr) in Arabia. Khawlah came to the Prophet (‫ )ﷺ‬to ask for his opinion. He (‫ )ﷺ‬told her that he had not received any revelation in this regard, and that, based on tradition, she was divorced. She argued that she and her husband had children together who would suffer if their parents were separated. Then she started to plead to God as the Prophet (‫ )ﷺ‬repeated the same answer. Eventually, this Medinian chapter was revealed in response to her pleas, thereby abolishing this ancient practice. The chapter emphasizes God’s infinite knowledge and overwhelming power, and makes it clear that those who ally themselves with God and comply with His orders are bound to prevail, whereas those who challenge Him and ally themselves with His enemies will be debased and vanquished. This concept is elaborated upon in the next chapter (verses 59:1- 4 and 11-17)."
+ },
+ "59": {
+  "num": 59,
+  "name": "The Banishment",
+  "trans": "(Al-Ḥashr)",
+  "body": "This Medinian chapter takes its name from verse 2, which refers to the exile of the Jewish tribe of Banu An-Naḍîr from Medina for conspiring with the Meccan pagans to violate peace agreements with the Muslims. The hypocrites are condemned for their secret alliance with Banu An-Naḍîr. Some instructions are given regarding the distribution of the spoils of war. The chapter closes by stressing unwavering obedience to Almighty God, which is further emphasized at the beginning of the next chapter."
+ },
+ "60": {
+  "num": 60,
+  "name": "The Test",
+  "trans": "(Al-Mumtaḥanah)",
+  "body": "This Medinian chapter was revealed prior to the Prophet’s conquest of Mecca following the pagans’ violation of the peace treaty they had signed with the Muslims at Ḥudaibiyah. Despite the Prophet’s orders to keep this plan secret, a companion by the name of Ḥâṭib ibn Abi Balta’ah sent a warning letter to the Meccans, hoping that in turn they would protect his family—who were still in Mecca—in case the Muslims failed to enter the city. Soon the Prophet (‫ )ﷺ‬received a revelation about what Ḥâṭib did. The letter was intercepted, and Ḥâṭib was later forgiven. Mecca surrendered peacefully to the Muslims, and its residents were pardoned by the Prophet (‫)ﷺ‬. Muslims are instructed to be loyal to God and fellow believers, following the example of Prophet Abraham (‫( )ﷺ‬verses 4-6). The believers are not forbidden from courtesy to non-Muslims as long as they are not persecuting Muslims (verses 8-9). This chapter takes its name from testing the faith of women fleeing Mecca by asking them, for example, if they have emigrated for Islam or only to be separated from their pagan husbands (verse 10). Other instructions to the believers are given at the end of this chapter and the beginning of the next chapter."
+ },
+ "61": {
+  "num": 61,
+  "name": "The Solid Ranks",
+  "trans": "(Aṣ-Ṣaff)",
+  "body": "The believers are instructed to strive in God’s cause in solid battle formations (verse 4), hence the name of this Medinian chapter. The disciples of Jesus, who stood up for God, are cited as an example for the believers to emulate. The believers are reassured that the truth will prevail despite the disbelievers’ unrelenting plots against it. Those who stand up for God are promised great rewards in both worlds. The next chapter provides more instructions to the believers."
+ },
+ "62": {
+  "num": 62,
+  "name": "Friday",
+  "trans": "(Al-Jumu'ah)",
+  "body": "This chapter and the previous one have much in common. Both start by praising God. Those among the Jews who harmed Moses (‫)ﷺ‬, according to the previous chapter (61:5), are criticized here for not upholding the Torah chapter (61:14), the companions of Muḥammad (‫ )ﷺ‬are honoured in this chapter (verses 2-4). The Prophet (‫ )ﷺ‬is foretold by Jesus (‫ )ﷺ‬in the previous chapter (61:6) and is presented in this chapter as God’s favour to the believers. Similar to the previous chapter, some instructions are given to the believers—this time, regarding the Friday congregation (verse 9), which gives this Medinian chapter its name."
+ },
+ "63": {
+  "num": 63,
+  "name": "The Hypocrites",
+  "trans": "(Al-Munâfiqûn)",
+  "body": "Similar to the two previous chapters, this Medinian chapter closes by offering more advice to the believers. The hypocrites are rebuked for hindering others from the path of God and discouraging people from donating in His cause. In contrast, the believers are advised to donate before they are overtaken by death—a reality that can come at any time."
+ },
+ "64": {
+  "num": 64,
+  "name": "Mutual Loss and Gain",
+  "trans": "(At-Taghâbun)",
+  "body": "This Medinian chapter takes its name from the reference to the Day of Judgment in verse 9, where people are divided into winners and losers. Since the last chapter closes by urging the believers to donate before they are overtaken by death, this chapter opens by emphasizing God’s power to create and His ability to bring the dead back to life for judgment. The chapter concludes by bidding the believers to spend in the cause of God, and not be discouraged by concerns for their spouses and children. The rights of spouses and children after divorce are laid out in the next chapter."
+ },
+ "65": {
+  "num": 65,
+  "name": "Divorce",
+  "trans": "(Aṭ-Ṭalâq)",
+  "body": "This Medinian chapter outlines the manner of divorce and accommodation of divorced women and their young children (verses 1-7). Those who comply with God’s commands are promised a great reward, whereas those who defy Him are warned of the fate of those who were destroyed before. Complying with God’s orders is elaborated upon in the next chapter."
+ },
+ "66": {
+  "num": 66,
+  "name": "The Prohibition",
+  "trans": "(At-Taḥrîm)",
+  "body": "This Medinian chapter deals with an incident that happened within the Prophet’s household. The Prophet (‫ )ﷺ‬used to visit all of his wives in the evening. It so happened that he stayed longer than usual at the home of Zainab bint Jaḥsh, where he was offered honey—something he liked very much. Out of jealousy, two other wives (Ḥafṣah and ’Ȃishah) agreed between themselves to tell the Prophet (‫)ﷺ‬, when he visited each of them, that his mouth gave off a bad smell, knowing that he (‫ )ﷺ‬did not like bad smells. Eventually, the Prophet made an oath that he would never eat honey again, and told Ḥafṣah not to tell anyone about this. But she told ’Ȃishah that their plan worked. Both wives are subtly advised to learn from the example of the two believing women mentioned at the end of the chapter—Mary and Ȃsiyah, the wife of Pharaoh—and take a lesson from the fate of the wives of Noah and Lot, who were both destroyed despite being wives of prophets. The believers are urged in this chapter to mend their ways and genuinely repent to God in order to win His eternal reward, whereas the disbelievers are warned of a horrible fate. The fate of the disbelievers is elaborated upon in the next chapter."
+ },
+ "67": {
+  "num": 67,
+  "name": "The Sovereignty",
+  "trans": "(Al-Mulk)",
+  "body": "This Meccan chapter stresses that God’s infinite power is manifested through His perfect creation. Those who disbelieve in God and deny the Resurrection will be regretful in Hell, whereas those in awe of their Lord will be richly rewarded in Paradise. God’s absolute authority is contrasted with the powerlessness of false gods. The fact that there is no protection from God’s torment is emphasized in this chapter (verses 20, 21, and 30) and the next"
+ },
+ "68": {
+  "num": 68,
+  "name": "The Pen",
+  "trans": "(Al-Qalam)",
+  "body": "In this Meccan chapter, the Prophet’s heart is reassured and his character is highly praised. He (‫ )ﷺ‬is advised to be steadfast and not to yield to the pagans who reject his message and call him insane. The pagans are warned of an evil fate in this world and the Hereafter. To deter the pagans, the fate of some earlier disbelievers is cited in the next chapter."
+ },
+ "69": {
+  "num": 69,
+  "name": "The Inevitable Hour",
+  "trans": "(Al-Ḥâqqah)",
+  "body": "This Meccan chapter refers to the destruction of the peoples of ’Ȃd, Thamûd, Pharaoh, and Lot (‫ )ﷺ‬for denying the Hereafter. A reference is made to the apocalypse, followed by a touching description of the reward of the believers and the punishment of the disbelievers (verses 18-37). The pagan arguments against the Prophet (‫ )ﷺ‬and the Quran are thoroughly refuted (verses 38- 52). The horrors of the apocalypse are further described in the next chapter."
+ },
+ "70": {
+  "num": 70,
+  "name": "The Ascending Stairways",
+  "trans": "(Al-Ma'ârij)",
+  "body": "This Meccan chapter, which takes its name from verse 3, condemns the pagans for ridiculing the Day of Judgment (verses 1-2) and the Prophet that will ensue. The qualities of the people of Hell and the people of Paradise are described (verses 16-35). The Prophet (‫ )ﷺ‬is reassured, while the pagans are warned—both themes are embedded in the story of Noah (‫ )ﷺ‬in the next chapter."
+ },
+ "71": {
+  "num": 71,
+  "name": "Noah",
+  "trans": "(Nûḥ)",
+  "body": "This Meccan chapter describes how Noah (‫ )ﷺ‬strived to deliver the message to his people for 950 years (corresponding to the total number of Arabic letters in this chapter). He called them to the truth secretly and publically, using logical arguments to prove the mercy and oneness of God. But his people persisted in denial, only to perish in the Flood. The stubbornness of the Arab pagans in the previous chapter and the long denial of the people of Noah in this chapter are contrasted with how some jinn instantly believed once they heard the truth in the next chapter."
+ },
+ "72": {
+  "num": 72,
+  "name": "The Jinn",
+  "trans": "(Al-Jinn)",
+  "body": "This Meccan chapter gives an account of a group of jinn who fully submitted to the One True God as soon as they heard the Prophet’s recitation of the Quran. In comparison, the Arab pagans are criticized for their polytheistic beliefs. The pagans are told that the Prophet’s duty is only to deliver the message. Bringing about the punishment, which the pagans demanded, is only within the power of God. The next chapter provides more warning to the pagans and reassurance to the Prophet (‫)ﷺ‬."
+ },
+ "73": {
+  "num": 73,
+  "name": "The Wrapped One",
+  "trans": "(Al-Muzzammil)",
+  "body": "This early Meccan chapter prepares the Prophet (‫ )ﷺ‬for the commandments yet to be revealed and the challenges ahead. The Prophet (‫ )ﷺ‬is advised, both in this chapter and the next, to seek comfort in patience and prayer, whereas the arrogant disbelievers are warned of a horrible punishment in Hell."
+ },
+ "74": {
+  "num": 74,
+  "name": "The One Covered Up",
+  "trans": "(Al-Muddaththir)",
+  "body": "Following his first encounter with the angel Gabriel at a cave in the outskirts of Mecca, the Prophet (‫ )ﷺ‬rushed to his house in total shock, asking his wife to cover him up with his cloak. Later, this Meccan chapter was revealed, urging him (‫ )ﷺ‬to shoulder the responsibility of delivering the message. God promises to deal with the pagan tyrants who oppose the truth, defame the Quran, and ridicule warnings of Hell. The pagan denial of the Hereafter is dealt with in the next chapter."
+ },
+ "75": {
+  "num": 75,
+  "name": "The Resurrection",
+  "trans": "(Al-Qiyâmah)",
+  "body": "This Meccan chapter refutes the pagan denial of resurrection and judgment. The chapter makes it clear that death and judgment are inescapable. The fact that God created humans from humble fluids and is able to bring all to account is detailed in the next chapter."
+ },
+ "76": {
+  "num": 76,
+  "name": "Humans",
+  "trans": "(Al-Insân)",
+  "body": "This Meccan chapter reminds the human beings of how God created them, equipped them with different faculties, showed them the Way, and gave them free choice. The reward of those who choose to believe is mentioned at length in this chapter but passingly in the next chapter (77:41-44), whereas the reward of those who choose to disbelieve is mentioned passingly in this chapter (verse 4) but in great detail in the next. The Prophet (‫ )ﷺ‬is advised to be steadfast and not yield to the deniers of Judgment Day."
+ },
+ "77": {
+  "num": 77,
+  "name": "Those Sent Forth",
+  "trans": "(Al-Mursalât)",
+  "body": "Like the two previous chapters and the next two chapters, this Meccan chapter makes it clear that God’s power to create should be taken as a proof of His ability to bring the dead back to life for judgment. The horrors of the Hour and the punishment of the wicked are stated in strong terms."
+ },
+ "78": {
+  "num": 78,
+  "name": "The Momentous News",
+  "trans": "(An-Naba')",
+  "body": "This Meccan chapter thoroughly refutes the arguments of those who deny the Hereafter by citing some of the marvels of God’s creation to prove His ability to raise the dead to life and reward everyone according to their deeds."
+ },
+ "79": {
+  "num": 79,
+  "name": "Those Who Snatch",
+  "trans": "(An-Nâzi'ât)",
+  "body": "This Meccan chapter emphasizes that the Day of Judgment is inevitable and its time is known only to God. The destruction of Pharaoh is cited as a deterrent to the disbelievers."
+ },
+ "80": {
+  "num": 80,
+  "name": "He Frowned",
+  "trans": "('Abasa)",
+  "body": "In a ḥadîth collected by At-Tirmiⱬi, a blind man by the name of ’Abdullâh ibn Um Maktûm, an early Muslim, came to the Prophet (‫ )ﷺ‬seeking to learn more about the faith, while the Prophet (‫ )ﷺ‬was in the middle of a discussion with an elite Meccan pagan, trying to convince him to abandon his idols and believe in the One True God. ’Abdullâh was so impatient that he interrupted the discussion several times. The Prophet (‫ )ﷺ‬frowned and turned all his attention to the man he was already talking to. This Meccan chapter was later revealed, telling the Prophet (‫ )ﷺ‬that he should have tended to the faithful man who was eager to learn. After this chapter was revealed, the Prophet (‫ )ﷺ‬would honour ’Abdullâh, calling him ‘the man for whom my Lord rebuked me.’ He (‫ )ﷺ‬even appointed him several times as his deputy over Medina. The chapter calls upon the ungrateful disbelievers to reflect on how God produces plants out of the earth to realize how He can bring the dead out of their graves. The description of the horrors of the apocalypse is carried over to the next chapter."
+ },
+ "81": {
+  "num": 81,
+  "name": "Putting Out",
+  "trans": "(At-Takwîr)",
+  "body": "This Meccan chapter describes some of the apocalyptic events leading up to the Day of Judgment, stating that everyone will meet the consequences of their deeds. The chapter closes by emphasizing that the Quran is God’s revealed Word and that the Prophet (‫ )ﷺ‬is not insane, as the pagans claim."
+ },
+ "82": {
+  "num": 82,
+  "name": "The Splitting Open",
+  "trans": "(Al-Infiṭâr)",
+  "body": "Like the previous chapter, this Meccan chapter describes some of the horrors of the Day of Judgment. The disbelievers are criticized for being ungrateful to their Creator. Everyone—including the cheaters mentioned in the next chapter —will be held accountable for their deeds, which are perfectly recorded by vigilant angels."
+ },
+ "83": {
+  "num": 83,
+  "name": "Defrauders",
+  "trans": "(Al-Muṭaffifîn)",
+  "body": "This Meccan chapter begins with a warning to those who defraud scales about the horrible Day ahead, where the wicked will be severely punished and the virtuous will be richly rewarded. The chapter closes by stating that the disbelievers will be paid back for making fun of the believers."
+ },
+ "84": {
+  "num": 84,
+  "name": "The Splitting",
+  "trans": "(Al-Inshiqâq)",
+  "body": "As a follow-up to the previous chapters, this Meccan chapter elaborates upon what to expect on Judgment Day. The believers will receive their records of deeds in their right hands and rejoice after an easy judgment, whereas the disbelievers will receive their records in their left hands and cry for instant destruction. The disbelievers are criticized for failing to submit to God, contrasted with the full submission of the sky and the earth in verses 1-5. More warnings to the evildoers appear in the next chapter."
+ },
+ "85": {
+  "num": 85,
+  "name": "Constellations",
+  "trans": "(Al-Burûj)",
+  "body": "The beginning of this Meccan chapter condemns the persecution of the Christians of Najrân (a city on the border of Yemen and Saudi Arabia) at the hands of the pagans around 524 C.E. The tyrants are warned of the torment of burning, whereas the believers are promised a great reward in Paradise. Both this chapter and the next swear by the towering sky, emphasize God’s infinite power, pose a warning to the evildoers, and stress the divinity of the Quran."
+ },
+ "86": {
+  "num": 86,
+  "name": "The Night Comer",
+  "trans": "(Aṭ-Ṭâriq)",
+  "body": "In this Meccan chapter, an oath is made that whatever a person does is recorded by vigilant angels and that the Resurrection is as easy for God as the first creation. Another oath is made that the Quran is a decisive message, and a warning is given to those who plot against God."
+ },
+ "87": {
+  "num": 87,
+  "name": "The Most High",
+  "trans": "(Al-A'lâ)",
+  "body": "Unlike the wicked who plot against God (according to the end of the previous chapter), the Prophet (‫ )ﷺ‬is ordered at the beginning of this Meccan chapter to glorify his Lord. This fleeting world is compared to the short life of plants are warned of burning in Hell. This warning is emphasized in the next chapter."
+ },
+ "88": {
+  "num": 88,
+  "name": "The Overwhelming Event",
+  "trans": "(Al-Ghâshiyah)",
+  "body": "This Meccan chapter compares the fate of the evildoers in the Hereafter to that of the good-doers. Those who disbelieve in God’s might are criticized for failing to reflect on the wonders of His creation, and are warned of the fate of some destroyed disbelievers mentioned at the beginning of the next chapter."
+ },
+ "89": {
+  "num": 89,
+  "name": "The Dawn",
+  "trans": "(Al-Fajr)",
+  "body": "The Prophet (‫ )ﷺ‬is reassured in this Meccan chapter that the Arab pagans are not immune to the torments that befell ’Ȃd, Thamûd, and Pharaoh. A reference is made to the wicked who fail to be grateful in prosperity and patient in adversity. The evildoers will be regretful on Judgment Day, whereas the righteous will be honoured. Those who withhold God’s bounties are criticized in this chapter (verses 17-20) and the next (90:11-16)."
+ },
+ "90": {
+  "num": 90,
+  "name": "The City",
+  "trans": "(Al-Balad)",
+  "body": "The underlying theme of this Meccan chapter is that human beings are equipped with the necessary faculties to choose between right and wrong. The good-doers are promised Paradise and the evildoers are promised Hell. This theme is emphasized in the next chapter."
+ },
+ "91": {
+  "num": 91,
+  "name": "The Sun",
+  "trans": "(Ash-Shams)",
+  "body": "This Meccan chapter states that people have free choice to purify or corrupt their souls. Those who choose purity will be successful, and those who choose corruption will be destroyed like the people of Thamûd. Free choice is the highlight of the next chapter as well."
+ },
+ "92": {
+  "num": 92,
+  "name": "The Night",
+  "trans": "(Al-Layl)",
+  "body": "This Meccan chapter emphasizes God’s power to create and show the Way, the people’s ability to choose between good and evil, and the consequences of each route. The fact that the believers will be rewarded to their satisfaction is highlighted in this chapter (verse 21) and the next (93:5)."
+ },
+ "93": {
+  "num": 93,
+  "name": "The Morning Brightness",
+  "trans": "(Aḍ-Ḍuḥâ)",
+  "body": "It is reported that the revelation stopped for a while after the initial chapters of the Quran, so some Meccan pagans started to mock the Prophet (‫)ﷺ‬, saying that God has become neglectful and hateful of him (‫)ﷺ‬. Therefore, this Meccan chapter was revealed to refute their false allegations and remind the Prophet (‫ )ﷺ‬of some of God’s favours."
+ },
+ "94": {
+  "num": 94,
+  "name": "The Relief",
+  "trans": "(Ash-Sharḥ)",
+  "body": "Like the previous chapter, this chapter reminds the Prophet (‫ )ﷺ‬of more blessings to reassure him of God’s continued support in the city of Mecca, which is mentioned in the next chapter."
+ },
+ "95": {
+  "num": 95,
+  "name": "The Fig",
+  "trans": "(At-Tîn)",
+  "body": "This Meccan chapter emphasizes that God honours humans but many of them debase themselves by denying the meeting with Him in the Hereafter. Abu Jahl, one of the most notorious deniers is referred to in the next chapter."
+ },
+ "96": {
+  "num": 96,
+  "name": "The Clinging Form",
+  "trans": "(Al-'Alaq)",
+  "body": "Verses 1-5 are known to be the first ever revealed of the Quran. The Prophet Gabriel appeared to him, squeezing him tightly and ordering him to read. Since the Prophet (‫ )ﷺ‬was unlettered, he responded, “I cannot read.” Ultimately, Gabriel taught him: “Read in the Name of your Lord …” Some scholars believe that this encounter is the fulfilment of Isaiah 29:12, which states, “Then the book will be given to the one who is illiterate, saying, ‘Read this.’ And he will say, ‘I cannot read.’” The rest of the chapter was later revealed to deter Abu Jahl, a Meccan pagan elite, from abusing the Prophet"
+ },
+ "97": {
+  "num": 97,
+  "name": "The Night of Glory",
+  "trans": "(Al-Qadr)",
+  "body": "Since the previous chapter commemorates the first revelation, this Meccan chapter celebrates the glorious night the Quran was revealed, which is believed to be the night of Ramaḍân 27, 610 C.E. The reason why the Prophet (‫ )ﷺ‬was sent with the Quran is spelled out in the next chapter."
+ },
+ "98": {
+  "num": 98,
+  "name": "The Clear Proof",
+  "trans": "(Al-Bayyinah)",
+  "body": "According to this Medinian chapter, the Prophet (‫ )ﷺ‬was sent so the disbelievers may change their ways and devote their worship to God alone. Those who believe are promised a great reward, whereas those who persist in disbelief are warned of a horrible punishment. The judgment of the believers and disbelievers is the highlight of the next chapter."
+ },
+ "99": {
+  "num": 99,
+  "name": "The Earthquake",
+  "trans": "(Az-Zalzalah)",
+  "body": "This Medinian chapter states that all deeds will be brought to light and accounted for on Judgment Day, which is also emphasized in the next chapter."
+ },
+ "100": {
+  "num": 100,
+  "name": "The Galloping Horses",
+  "trans": "(Al-'Âdiyât)",
+  "body": "This Meccan chapter stresses the fact that people will be accountable on Judgment Day for their ingratitude to their Lord. The scene of the people emerging from their graves (verse 9) is elaborated upon in the next chapter."
+ },
+ "101": {
+  "num": 101,
+  "name": "The Striking Disaster",
+  "trans": "(Al-Qâri'ah)",
+  "body": "This Meccan chapter describes the Resurrection and the weighing of deeds in the Hereafter, followed by the final destination to either Paradise or Hell. The reason why many people will end up in the Fire is given in the next chapter."
+ },
+ "102": {
+  "num": 102,
+  "name": "Rivalry for Worldly Gain",
+  "trans": "(At-Takâthur)",
+  "body": "In this Meccan chapter and the next, the disbelievers are criticized for wasting their lives doing things that do not matter in the Hereafter, most importantly hoarding wealth."
+ },
+ "103": {
+  "num": 103,
+  "name": "The Passage of Time",
+  "trans": "(Al-'Aṣr)",
+  "body": "This Meccan chapter emphasizes that, unlike the evildoers mentioned in the next chapter, only those who take advantage of this fleeting life by doing good will be successful in the eternal life to come."
+ },
+ "104": {
+  "num": 104,
+  "name": "The Backbiter",
+  "trans": "(Al-Humazah)",
+  "body": "This Meccan chapter is critical of those who slander others and withhold God’s bounties. It is made clear that their punishment in Hell is as easy for God as the destruction of the evil force mentioned in the next chapter."
+ },
+ "105": {
+  "num": 105,
+  "name": "The Elephant",
+  "trans": "(Al-Fîl)",
+  "body": "This Meccan chapter recounts the story of Abraha Al-Ḥabashi (lit., the Abyssinian), who led a large army of men and elephants to demolish the Ka’bah in 570 C.E. so pilgrims would visit the cathedral he had built in Yemen instead. However, the army was destroyed before reaching Mecca. It is commonly believed that the Prophet (‫ )ﷺ‬was born the same year."
+ },
+ "106": {
+  "num": 106,
+  "name": "Quraysh",
+  "trans": "(Quraysh)",
+  "body": "This Meccan chapter is viewed as a continuation of the previous one. The general idea is that the Meccan pagans must be grateful and devoted to God alone for saving the Ka’bah from the Army of the Elephant. Those who are unfaithful to God and unkind to the helpless are criticized in the next chapter."
+ },
+ "107": {
+  "num": 107,
+  "name": "Small Kindnesses",
+  "trans": "(Al-Mâ'ûn)",
+  "body": "This Meccan chapter, which takes its name from verse 7, condemns the deniers of the Hereafter for their lack of devotion to God and lack of compassion towards the needy. In the next chapter, the Prophet (‫ )ﷺ‬is ordered to be devoted to God alone and share the meat of his sacrificial animals with those in need."
+ },
+ "108": {
+  "num": 108,
+  "name": "Abundant Goodness",
+  "trans": "(Al-Kawthar)",
+  "body": "This Meccan chapter was revealed to reassure the Prophet (‫)ﷺ‬. Since the Prophet’s sons died in childhood, Al-’Ȃṣ ibn Wâ'il, an infamous Meccan pagan, used to say that Muḥammad (‫ )ﷺ‬would be forgotten because he had no son to carry his name. Today, ‘Muḥammad’ is the most common name in the world, whereas the name of Al-’Ȃṣ is barely mentioned. The Prophet (‫)ﷺ‬ is ordered to be devoted to God alone, which is the underlying theme of the next chapter."
+ },
+ "109": {
+  "num": 109,
+  "name": "The Disbelievers",
+  "trans": "(Al-Kâfirûn)",
+  "body": "It is reported that the pagans offered to worship God alone for one year, provided that the Prophet (‫ )ﷺ‬worshipped their multiple gods for a year. So this Meccan chapter was revealed, telling them that he (‫ )ﷺ‬will be dedicated only to the worship of God until the last breath of his life, which is the highlight of the next chapter."
+ },
+ "110": {
+  "num": 110,
+  "name": "The Ultimate Help",
+  "trans": "(An-Naṣr)",
+  "body": "This Medinian chapter was revealed close to the end of the Prophet’s life, instructing him that once his mission is complete and his message is embraced by many, he (‫ )ﷺ‬should be ready to meet his Creator. A deterring example of those who rejected his message is given in the next chapter."
+ },
+ "111": {
+  "num": 111,
+  "name": "The Palm-Fibre Rope",
+  "trans": "(Al-Masad)",
+  "body": "This Meccan chapter is a warning to Abu Lahab (lit., the Father of Flames), who was an uncle of the Prophet (‫)ﷺ‬. Both Abu Lahab and his wife Um Jamîl used to abuse the Prophet (‫ )ﷺ‬and deny the One True God, Who is described in the next chapter."
+ },
+ "112": {
+  "num": 112,
+  "name": "Sincerity",
+  "trans": "(Al-Ikhlâṣ)",
+  "body": "This Meccan chapter refutes the Trinity, idolatry, atheism, and polytheism and calls for full devotion to the only True God, Who is worthy to be worshipped and Whose protection is to be sought, according to the next two chapters."
+ },
+ "113": {
+  "num": 113,
+  "name": "The Daybreak",
+  "trans": "(Al-Falaq)",
+  "body": "This Medinian chapter is recited as a supplication to the Almighty against any kind of evil."
+ },
+ "114": {
+  "num": 114,
+  "name": "Humans",
+  "trans": "(An-Nâs)",
+  "body": "Like the previous chapter, this Medinian chapter is a supplication against the evil of humans and jinn. This final chapter emphasizes the fact that God is the Lord and Master of all and that He is the only One to be called upon for help, which connects full circle with the central theme of the first chapter of the Quran."
+ }
+}
