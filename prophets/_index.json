@@ -1,0 +1,32 @@
+[
+  {
+    "id": "adam",
+    "name": "Prophet Adam",
+    "honorific": "عليه السلام"
+  },
+  {
+    "id": "nuh",
+    "name": "Prophet Nuh",
+    "honorific": "عليه السلام"
+  },
+  {
+    "id": "ibrahim",
+    "name": "Prophet Ibrahim",
+    "honorific": "عليه السلام"
+  },
+  {
+    "id": "musa",
+    "name": "Prophet Musa",
+    "honorific": "عليه السلام"
+  },
+  {
+    "id": "isa",
+    "name": "Prophet Isa",
+    "honorific": "عليه السلام"
+  },
+  {
+    "id": "muhammad",
+    "name": "Prophet Muhammad",
+    "honorific": "ﷺ"
+  }
+]
